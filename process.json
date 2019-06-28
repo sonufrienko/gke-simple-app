@@ -1,0 +1,11 @@
+{
+	"apps": [
+		{
+			"name": "app",
+			"script": "./index.js",
+			"exec_mode": "cluster",
+			"instances": 0,
+			"max_restarts": 20
+		}
+	]
+}
