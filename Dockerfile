@@ -1,4 +1,4 @@
-FROM node:10-alpine
+FROM node:lts-jessie
 
 # Set the work directory
 RUN mkdir -p /var/www/app
