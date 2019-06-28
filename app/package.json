@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "description": "Simple app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Sergey Onufrienko",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
