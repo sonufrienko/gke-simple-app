@@ -1,9 +1,21 @@
-# Deploy a simple Node.js app to Kubernetes (GKE)
+# Deploy a simple Node.js app on Kubernetes (GKE)
 
 ![](kubernetes.png)
 
-## Deploy to Kubernetes
+## Deploy on Kubernetes (GKE)
 
+
+[Read here](https://medium.com/@onufrienkos/deploying-a-node-js-app-to-the-google-kubernetes-engine-gke-d6af1f3a954c)
+
+
+## Run
+
+```shell
+git clone https://github.com/sonufrienko/gke-simple-app
+cd gke-simple-app/app
+npm i
+npm run start
+```
 
 
 ## App
